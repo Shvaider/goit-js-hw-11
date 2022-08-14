@@ -3,7 +3,7 @@ import Notiflix from 'notiflix';
 import SimpleLightbox from 'simplelightbox';
 import 'simplelightbox/dist/simple-lightbox.min.css';
 
-import { fetchImages } from './JS/fetchImages';
+import { fetchImages } from './js/fetchImages';
 import { fadeEffect } from './js/preloader';
 
 //html el
