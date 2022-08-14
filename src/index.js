@@ -1,6 +1,3 @@
-// import axios from 'axios';
-// axios.get('/user?ID=12345');
-
 import Notiflix from 'notiflix';
 
 import SimpleLightbox from 'simplelightbox';
